@@ -1,0 +1,2 @@
+# TekBirSay-GirileneKadarDordunKat-SayToplami
+#
